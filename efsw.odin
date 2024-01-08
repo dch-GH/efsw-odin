@@ -22,7 +22,7 @@
 // http://code.google.com/p/simplefilewatcher/ also MIT licensed.
 
 // Odin bindings for "Entropia File System Watcher" (https://github.com/SpartanJ/efsw).
-package esfw
+package efsw
 
 import c "core:c/libc"
 
